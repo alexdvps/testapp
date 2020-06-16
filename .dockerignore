@@ -1,0 +1,15 @@
+**ansible
+**.git
+**.gitignore
+**__pycache__
+**__pycache__
+**test-reports
+**README.md
+**env.*
+**Dockerfile*
+**Vagrantfile*
+**Jenkinsfile*
+**docker-compose*
+**.env
+**uwsgi.ini
+**wsgi.py
